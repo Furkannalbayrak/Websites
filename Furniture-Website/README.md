@@ -2,6 +2,7 @@
 Temel düzeyde HTML ve CSS ile yapılmış, basit ve sade bir tasarıma sahip olan mobilya websitesi. 
 
 # Amacı
+Bu website aşağıdaki amaçlar için tasarlanmıştır:
 - Kendi projemi ve becerilimi sergilemek
 - Bu marka hakkında bilgi sağlamak
 - Mobilya çeşitlerini göstermek
