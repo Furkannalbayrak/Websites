@@ -1,5 +1,9 @@
 # Website Codes
 
-## 📌 Proje Listesi
-- [Furniture Website](Furniture-Website/) → Kullanıcının girdiği harften kaç tane olduğunu bulan JS kodu.
+Bu repository, temel, orta ve ileri düzey olmak üzere çeşitli alanlarda tasarlanmış websitelerini içermektedir.
 
+## 📌 Proje Listesi
+- [Furniture Website](Furniture-Website/)
+- [Food Website](Food-Website/)
+
+Her projeye **tıklayarak** detaylarına ulaşabilirsiniz!
