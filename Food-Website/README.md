@@ -1,5 +1,5 @@
 # Food-Website
-Temel-orta düzey HTML vs CSS ile geliştirilmiş bir yemek menüsü websitesi
+Temel-orta düzey HTML ve CSS ile geliştirilmiş bir yemek menüsü websitesi
 
 # Amacı
 Bu website aşağıdaki amaçlar için tasarlanmıştır:
