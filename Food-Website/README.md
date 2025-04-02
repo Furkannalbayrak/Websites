@@ -18,8 +18,8 @@ Bu proje, bir restoranın yemek ve içecek menüsünü sergileyen, modern ve kul
 
 ## 💻 Kullanılan Teknolojiler
 - HTML
-- JavaScript
-- Responsive Web Design (Mobil uyumlu)
+- CSS
+
   
 
 ## 🛠 Kurulum ve Kullanım
