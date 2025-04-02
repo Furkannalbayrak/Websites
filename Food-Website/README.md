@@ -27,20 +27,18 @@ Bu projeyi bilgisayarınıza klonlamak için şu adımları izleyin:
 
 1. **Proje Klasörünü Kopyalayın**:
    - GitHub'dan projeyi klonlamak için terminal veya komut satırında şu komutu çalıştırın:
-  
      ```bash
-    git clone https://github.com/Furkannalbayrak/Websites.git
+     git clone https://github.com/Furkannalbayrak/JavaScript.git
      ```
 
 2. **Proje Klasörüne Girin**:
    - Klonlanan projeye gitmek için şu komutu çalıştırın:
-     
-bash
-     cd JavaScript/Food-Website
-
+     ```bash
+     cd JavaScript/Supermarket-money-card
+     ```
 
 3. **Gerekli Dosyayı Açın**:
-   - Projeyi çalıştırmak için index.html dosyasını bir tarayıcıda açabilirsiniz.
+   - Projeyi çalıştırmak için `index.html` dosyasını bir tarayıcıda açabilirsiniz.
 
 Projeyi yerel ortamda çalıştırdığınızda, JavaScript tarayıcıda doğru şekilde çalışacaktır.
 
