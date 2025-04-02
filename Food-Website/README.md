@@ -27,10 +27,10 @@ Bu projeyi bilgisayarınıza klonlamak için şu adımları izleyin:
 
 1. **Proje Klasörünü Kopyalayın**:
    - GitHub'dan projeyi klonlamak için terminal veya komut satırında şu komutu çalıştırın:
-     
-bash
-     git clone https://github.com/Furkannalbayrak/Websites.git
-
+  
+     ```bash
+    git clone https://github.com/Furkannalbayrak/Websites.git
+     ```
 
 2. **Proje Klasörüne Girin**:
    - Klonlanan projeye gitmek için şu komutu çalıştırın:
