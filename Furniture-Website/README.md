@@ -1,25 +1,23 @@
-# Restaurant Menu Web Site
-Bu proje, bir restoranın yemek ve içecek menüsünü sergileyen, modern ve kullanıcı dostu bir web sitesi tasarımıdır. Menüdeki yemekler, içecekler ve tatlılar farklı kategorilerde gösterilir ve kullanıcıya şık bir görsel deneyim sunar.
+# Furniture Web Site
+Bu proje, kullanıcıların mobilya sektörüne dair bilgilere erişebileceği ve çeşitli mobilya kategorilerini keşfedebileceği bir web sitesi uygulamasıdır. Site, kullanıcıları modern mobilyalarla tanıştırarak, ürün ve hizmetler hakkında detaylı bilgi sunar.
 
 ## 🚀 Özellikler
 
-- Restoran logosu ve gezinme menüsü sabitlenmiş bir üst kısımda bulunur.
-- Ziyaretçileri karşılayan bir görsel ve çağrıcı butonlar içerir.
-- Yiyecekler, içecekler ve tatlılar kategorileri ile restoranın sunduğu seçenekler ayrılmıştır.
-- Web sitesi renkli ve kullanıcı dostu bir tasarıma sahiptir, ziyaretçiler kolayca gezinebilir.
-- Web sitesi mobil cihazlar da dahil her platformda uyumlu şekilde görüntülenebilir.
+- Web sitesi başlığı ve sabitlenmiş menü sayesinde kullanıcılar sayfa boyunca gezinirken kolayca erişim sağlar.
+- Sosyal medya hesaplarına kolay erişim için medya butonları içerir.
+- Şirketin misyonu ve sunduğu hizmetler hakkında bilgilendirici bir metin yer alır.
+- Kullanıcılar, farklı mobilya kategorilerine göz atabilirler (Koltuğu, yemek masası, TV ünitesi vb.).
+- Web sitesi, masaüstü, tablet ve mobil cihazlarda uyumlu bir şekilde görüntülenebilir.
 
 ## 📂 Proje Yapısı
 
-- **index.html**: Web sitesinin ana yapısını içerir.
-- **style.css**: Web sayfasının stil ve tasarım kurallarını içerir.
-- **yemek.img**: Web sitesinde kullanılan görselleri barındıran klasör.
+- **index.html**: Web sayfasının HTML yapısını içerir ve CSS ile medya bağlantılarını bağlar.
+- **style.css**: Sayfanın stilini düzenleyen CSS dosyası.
 
 
 ## 💻 Kullanılan Teknolojiler
 - HTML
-- JavaScript
-- Responsive Web Design (Mobil uyumlu)
+- CSS
   
 
 ## 🛠 Kurulum ve Kullanım
@@ -35,7 +33,7 @@ Bu projeyi bilgisayarınıza klonlamak için şu adımları izleyin:
 2. **Proje Klasörüne Girin**:
    - Klonlanan projeye gitmek için şu komutu çalıştırın:
      ```bash
-     cd Websites/Food-Website
+     cd Websites/Furniture-Website
      ```
 
 3. **Gerekli Dosyayı Açın**:
