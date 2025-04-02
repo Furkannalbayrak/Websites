@@ -6,6 +6,7 @@ Bu proje, bir restoranın yemek ve içecek menüsünü sergileyen, modern ve kul
 - Restoran logosu ve gezinme menüsü sabitlenmiş bir üst kısımda bulunur.
 - Ziyaretçileri karşılayan bir görsel ve çağrıcı butonlar içerir.
 - Yiyecekler, içecekler ve tatlılar kategorileri ile restoranın sunduğu seçenekler ayrılmıştır.
+- Web sitesi renkli ve kullanıcı dostu bir tasarıma sahiptir, ziyaretçiler kolayca gezinebilir.
 - Web sitesi mobil cihazlar da dahil her platformda uyumlu şekilde görüntülenebilir.
 
 ## 📂 Proje Yapısı
